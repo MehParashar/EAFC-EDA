@@ -7,18 +7,21 @@ Prerequisites
 Python 3
 Required Python libraries: pandas, matplotlib, seaborn, plotly, scikit-learn
 Install the required libraries using pip:
+  
+  pip install pandas matplotlib seaborn plotly scikit-learn
 
-pip install pandas matplotlib seaborn plotly scikit-learn
 Getting Started
 Clone the repository:
-git clone https://github.com/MehParashar/EAFC-EDA.git
+  git clone https://github.com/MehParashar/EAFC-EDA.git
+
 Navigate to the project directory:
-cd EAFC-EDA
-Run the Python scripts to analyze and visualize the football player data.
-File Descriptions
-all_players.csv: Dataset containing information about football players.
-EAFC.ipynb: Jupyter Notebook containing the Python code for data analysis.
-README.md: This file providing an overview of the project.
+  cd EAFC-EDA
+
+  Run the Python scripts to analyze and visualize the football player data.
+  File Descriptions
+  all_players.csv: Dataset containing information about football players.
+  EAFC.ipynb: Jupyter Notebook containing the Python code for data analysis.
+  README.md: This file providing an overview of the project.
 Analysis and Visualization
 1. Basic Data Exploration
 Load the dataset and display basic information.
